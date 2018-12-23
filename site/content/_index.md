@@ -1,6 +1,6 @@
 ---
-title: Ann Trason Running 222
-subtitle: Support sustainable farming while enjoying a cup 333
+title: Ann Trason Running
+subtitle: A blurb
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Why Kaldi?
